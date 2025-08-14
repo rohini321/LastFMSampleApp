@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Sa38Ygs04AWDzvdYH4obDI5cgeubxWH818ALV9KBk4c=",
+  "Source": "LastFMWebAPI",
+  "BasePath": "_content/LastFMWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

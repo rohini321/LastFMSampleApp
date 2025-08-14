@@ -1,0 +1,43 @@
+/* ArtistTags.css */
+.tags-container {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.no-tags {
+  text-align: center;
+  color: #666;
+  padding: 20px;
+}
+
+.tags-title {
+  color: #333;
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tag-item {
+  display: inline-block;
+  padding: 5px 12px;
+  background-color: #f0f0f0;
+  color: #333;
+  text-decoration: none;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  transition: background-color 0.2s;
+}
+
+.tag-item:hover {
+  background-color: #d51007;
+  color: white;
+}
